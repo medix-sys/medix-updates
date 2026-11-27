@@ -10,6 +10,17 @@
    "targets": [],
    "notes": "Your System Have New Update Please check it",
    "published": "2026-11-25T00:03:48Z"
+  },
+  {
+   "version": "1.4.4",
+   "manifest": "eyJ2IjoiMS40LjQiLCJzaGEyNTYiOiIxYzAyNzhlZjg2OTk5NTNiMWRmZjJkYTZhMmEwMDdhNmQzOWMwZmMzYzJkM2YzYzYxOTZlNmEwYWYxMWY0Y2E1Iiwic2l6ZSI6MTg1NjMyNDUsImZpbGUiOiJNZWRpeC1TZXR1cC0xLjQuNC0yYTVmOGY2OTk0ZmIuZXhlIiwibm90ZXMiOiIifQ",
+   "sig": "wb3ZjpzjYAk6vO-HEx0W-RBHRtq1MDvI-M23WMN2s1cQL2yP2R90eRiA_016SQJqauSohlFM-z6Q02i0Zva3AQ",
+   "file": "Medix-Setup-1.4.4-2a5f8f6994fb.exe",
+   "url": "https://github.com/medix-sys/medix-updates/releases/download/v1.4.4/Medix-Setup-1.4.4-2a5f8f6994fb.exe",
+   "size": 18563245,
+   "targets": [],
+   "notes": "",
+   "published": "2026-11-27T01:00:36Z"
   }
  ]
 }
