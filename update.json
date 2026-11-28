@@ -21,6 +21,17 @@
    "targets": [],
    "notes": "",
    "published": "2026-11-27T01:00:36Z"
+  },
+  {
+   "version": "1.4.5",
+   "manifest": "eyJ2IjoiMS40LjUiLCJzaGEyNTYiOiJlNGQyNjJlMDBlODhhYjk0OTRhZGNhN2QxM2ZiMWUyYmU5YWE0ZjBjM2UyNzU1ODg2YTdkNDc0MGJhZTg4ZjdkIiwic2l6ZSI6MTg1NjYzNjUsImZpbGUiOiJNZWRpeC1TZXR1cC0xLjQuNS05YmZlYmIwMjAzYWUuZXhlIiwibm90ZXMiOiIifQ",
+   "sig": "QMH_roR9NTm-PvLpTamEcOtT1h81XIOsh6S4r8iEIaMJtk_9af7bViFYZEEWtAmnLRC7ks_fwUDBe_cVMeEGCw",
+   "file": "Medix-Setup-1.4.5-9bfebb0203ae.exe",
+   "url": "https://github.com/medix-sys/medix-updates/releases/download/v1.4.5/Medix-Setup-1.4.5-9bfebb0203ae.exe",
+   "size": 18566365,
+   "targets": [],
+   "notes": "",
+   "published": "2026-11-28T17:55:35Z"
   }
  ]
 }
